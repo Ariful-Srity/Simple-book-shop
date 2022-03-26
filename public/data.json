@@ -1,0 +1,56 @@
+[
+    {
+        "id": "abc1",
+        "name": "The Life Straggle",
+        "price": 200,
+        "picture": "https://img.freepik.com/free-vector/open-book-templates-set_1284-12671.jpg?size=338&ext=jpg&ga=GA1.1.1858951887.1648312405"
+    },
+    {
+        "id": "def2",
+        "name": "Tom Harry",
+        "price": 400,
+        "picture": "https://img.freepik.com/free-psd/four-books-mockup_125540-455.jpg?size=338&ext=jpg&ga=GA1.1.1858951887.1648312405"
+    },
+    {
+        "id": "ijk3",
+        "name": "Gulliver's Travels",
+        "price": 300,
+        "picture": "https://img.freepik.com/free-vector/flat-book-universe-logo-pack_23-2148810478.jpg?size=338&ext=jpg&ga=GA1.2.1858951887.1648312405"
+    },
+    {
+        "id": "lmn4",
+        "name": "Sky Blue",
+        "price": 500,
+        "picture": "https://img.freepik.com/free-vector/cute-cartoon-hand-drawn-girl-study-character_40876-3016.jpg?size=338&ext=jpg&ga=GA1.2.1858951887.1648312405"
+    },
+    {
+        "id": "opq5",
+        "name": "Tony Cruse",
+        "price": 250,
+        "picture": "https://img.freepik.com/free-psd/magazine-plant-assortment-flat-lay_23-2148918355.jpg?size=338&ext=jpg&ga=GA1.2.1858951887.1648312405"
+    },
+    {
+        "id": "rst6",
+        "name": "The Death",
+        "price": 350,
+        "picture": "https://img.freepik.com/free-psd/flat-lay-book-cover-mock-up-assortment_23-2148622910.jpg?size=338&ext=jpg&uid=R57845285&ga=GA1.1.1233729702.1648228169"
+    },
+    {
+        "id": "uvw7",
+        "name": "Robet Gibson",
+        "price": 450,
+        "picture": "https://img.freepik.com/free-vector/flat-book-universe-logo-pack_23-2148810478.jpg?size=338&ext=jpg&uid=R57845285&ga=GA1.2.1233729702.1648228169"
+    },
+    {
+        "id": "xyz8",
+        "name": "Games of Throns",
+        "price": 600,
+        "picture": "https://img.freepik.com/free-vector/open-book-templates-set_1284-12671.jpg?size=338&ext=jpg&uid=R57845285&ga=GA1.2.1233729702.1648228169"
+    },
+    {
+        "id": "00009",
+        "name": "The Moral Story",
+        "price": 550,
+        "picture": "https://img.freepik.com/free-vector/flat-university-concept-background_23-2148189185.jpg?size=338&ext=jpg&ga=GA1.2.1858951887.1648312405"
+    }
+]

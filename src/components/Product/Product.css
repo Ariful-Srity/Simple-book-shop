@@ -1,0 +1,30 @@
+.product{
+    border: 1px solid salmon;
+    border-radius: 8px;
+    position: relative;
+    height: 530px;
+}
+.product img{
+    margin: 7px;
+    border-radius: 9px;
+}
+.btn-cart{
+    width: 100%;
+    border: none;
+    border-radius: 0px 0px 8px 8px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-text{
+    color:black;
+    font-size: 17px;
+}
+.btn-cart .btn-text{
+    margin-right: 9px;
+}
+.btn-cart:hover{
+    background-color: salmon;
+}
