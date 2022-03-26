@@ -5,7 +5,7 @@ const Cart = ({ cart, randomChoice, handleChooseAgain }) => {
 
     return (
         <div className='cart'>
-            <h1> Selected Books</h1>
+            <h1>Choose your Book</h1>
             {
                 cart.map(ct => <p>{ct.name}</p>)
             }
