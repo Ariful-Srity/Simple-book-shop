@@ -1,0 +1,22 @@
+.question-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 50px;
+    margin: 50px;
+}
+.first-question{
+    border: 2px solid salmon;
+    border-radius: 7px;
+    padding: 8px;
+}
+.second-question{
+    border: 2px solid salmon;
+    border-radius: 7px;
+    padding: 8px;
+}
+
+@media screen and (max-width: 767px){
+    .question-container{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
